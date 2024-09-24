@@ -1,6 +1,6 @@
 <h5>Directory</h5> 
 
-<b>[Tech Portfolio Home](https://github.com/Jays1115/Jalen-Smith.git)</b>
+<b>[Tech Portfolio Home](https://github.com/Jays1115/Jalen-Smith.git)</b> /
 <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
 
 # Resolving-VPC-Connectivity-Issues
